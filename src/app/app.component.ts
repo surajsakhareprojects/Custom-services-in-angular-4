@@ -1,5 +1,4 @@
 import { Component, OnInit, Input, OnChanges, SimpleChange } from '@angular/core';
-import {HttpClientModule, HttpClient} from '@angular/common/http';
 import { WebApiObservableService } from './web-api-observable.service';
 
 @Component({
